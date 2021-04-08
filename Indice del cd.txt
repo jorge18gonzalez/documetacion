@@ -1,0 +1,64 @@
+Indice del CD _ proyecto GYM SENA
+ 	-Archivo txt
+
+Carpeta código fuente
+	-Código fuente.zip
+Carpeta Documentos
+	-Informe General del Sistema
+	-Presentacion GYM SENA
+	-Video promocional
+
+  Carpeta Entregables
+	-PT-PP-01-Planteamiento del Problema
+	-PT-PS-01-Prototipado del Sistema
+	-PT-MU-01-Manual de Usuario	
+	-PT-MA-01-Manual de Administrador
+	-PT-MTC-01-Manual Tecnico o de Configuracion
+	-PT-MCBD-01-Manual de Configuración Base de Datos
+
+ Carpeta Anexos
+	Carpeta de proceso de Desarrollo
+		Carpeta módulo Gestion Usuarios e ingreso
+			Carpeta Historias de Usuario
+			Carpeta Entrega de desarrollo
+			Carpeta Casos de prueba
+			Carpeta Actas
+	
+		Carpeta módulo Gestion ejercicos,rutinas y dietas
+			Carpeta Historias de Usuario
+			Carpeta Entrega de desarrollo
+			Carpeta Casos de prueba
+			Carpeta Actas
+
+
+		Carpeta módulo Gestion del sistema
+			Carpeta Test
+			Carpeta Login
+			Carpeta Anuncios
+			Carpeta Actas
+			
+
+Carpeta Instalador 
+
+
+Proyecto: GYM SENA
+
+Ficha:1967102
+
+Módulo gestion del sistema:
+	Jhon Alexander Bueno E
+	Alejandra Soler U
+	Jorge Andres G
+
+Módulo gestion usuarios e ingreso
+	Andres Stiven Pinzon
+	Diana Marcela Gil T
+	Fabian Alexander Cano S
+
+Módulo gestion ejercicos,rutinas y dietas
+	Catalina Londoño V
+	Santiago Muñoz D
+	Andres Felipe Guzman L
+
+
+
